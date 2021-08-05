@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.vincent</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>my-pet-clinic</name>
     <description>My Version Of Pet Clinic Web Application</description>
     <properties>
@@ -47,7 +47,7 @@
     </build>
 
     <scm><developerConnection>scm:git:git@github.com:vtmpenyana/my-pet-clinic.git</developerConnection>
-    <tag>my-pet-clinic-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
