@@ -46,7 +46,7 @@
         </plugins>
     </build>
 
-    <scm><developerConnection>scm:git:https://github.com/vtmpenyana/my-pet-clinic.git</developerConnection>  <tag>my-pet-clinic-0.0.1</tag>
+    <scm><developerConnection>scm:git:git@github.com:vtmpenyana/my-pet-clinic.git</developerConnection>
   </scm>
 
 </project>
